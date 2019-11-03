@@ -2,3 +2,4 @@
 .idea
 java_database_connections.iml
 target/
+resources/
